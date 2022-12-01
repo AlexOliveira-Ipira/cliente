@@ -1,0 +1,10 @@
+INSERT INTO client (birth_date, children, cpf, income, name) VALUES (TIMESTAMP WITH TIME ZONE '1970-07-21T20:59:19Z', 1,190956789, 1090.00, 'Heloísa Teixeira' );
+INSERT INTO client (birth_date, children, cpf, income, name) VALUES (TIMESTAMP WITH TIME ZONE '1971-08-22T20:59:19Z', 2,281848389, 2980.00, 'Samuel Pires' );
+INSERT INTO client (birth_date, children, cpf, income, name) VALUES (TIMESTAMP WITH TIME ZONE '1972-09-23T20:59:19Z', 3,372737488, 3870.00, 'Alexia Cavalcant');
+INSERT INTO client (birth_date, children, cpf, income, name) VALUES (TIMESTAMP WITH TIME ZONE '1973-10-24T20:59:19Z', 2,463626587, 4760.00, 'Henrique Dias');
+INSERT INTO client (birth_date, children, cpf, income, name) VALUES (TIMESTAMP WITH TIME ZONE '1974-11-25T20:59:19Z', 3,554515686, 5650.00, 'Anthony da Mata' );
+INSERT INTO client (birth_date, children, cpf, income, name) VALUES (TIMESTAMP WITH TIME ZONE '1975-12-26T20:59:19Z', 1,645004785, 6540.00, 'Larissa Fernandes' );
+INSERT INTO client (birth_date, children, cpf, income, name) VALUES (TIMESTAMP WITH TIME ZONE '1976-01-27T20:59:19Z', 1,736183884, 7430.00, 'Joana Rocha' );
+INSERT INTO client (birth_date, children, cpf, income, name) VALUES (TIMESTAMP WITH TIME ZONE '1977-02-28T20:59:19Z', 2,827272983, 8320.00, 'Isadora Duarte' );
+INSERT INTO client (birth_date, children, cpf, income, name) VALUES (TIMESTAMP WITH TIME ZONE '1978-03-29T20:59:19Z', 3,918361082, 9210.00, 'Mirella Lopes' );
+INSERT INTO client (birth_date, children, cpf, income, name) VALUES (TIMESTAMP WITH TIME ZONE '1979-04-30T20:59:19Z', 1,099450781, 10100.00, 'Kaique da Cruz' );
