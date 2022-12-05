@@ -21,7 +21,7 @@ public class ResourceExcecoesManipuladas {
 		statusError.setStatus(HttpStatus.NOT_FOUND.value());
 		statusError.setError("Resource not found");
 		statusError.setMessage(e.getMessage());
-		statusError.setPath(request.getContextPath());
+		statusError.setPath(request.getRequestURI());
 		return ResponseEntity.status(HttpStatus.NOT_FOUND).body(statusError);		
 	}	
 }
